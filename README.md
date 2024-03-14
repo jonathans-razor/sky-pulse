@@ -40,6 +40,6 @@
 
 **Vite**: A fast build tool for modern web development.
 
-**TypeScriptv: A statically typed superset of JavaScript.
+**TypeScript**: A statically typed superset of JavaScript.
 
 **Vuetify**: A Material Design component framework for Vue.
